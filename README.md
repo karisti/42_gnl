@@ -1,7 +1,7 @@
 # 42_get_next_line
 
 ## Description
-This project consists of programming a function that allows you to read content line by line. This is done by returning a line read from a file descriptor.
+This project consists of programming a function that allows you to read a file content line by line. This is done by returning a line read from a file descriptor.
 
 ## Prerequisites
 - Nothing needed
